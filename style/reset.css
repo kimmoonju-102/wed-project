@@ -1,0 +1,9 @@
+* {box-sizing:border-box; }
+a {text-decoration:none; color:#333333; }
+html, body, h1, h2, h3, h4, h5, h6, ul, li, ol, div, header, nav, a, img, button, p, em, i, strong, span, form, input, fieldset, legend, table, tr, td, th, section, footer, aside, article {
+    margin:0; padding:0; line-height:1.0;
+    list-style: none; border:0; 
+    font-size:1.0; font-weight: normal; font-style: normal;
+    border-collapse:collapse;
+    font-family: 'Nanum Gothic', sans-serif;
+}
